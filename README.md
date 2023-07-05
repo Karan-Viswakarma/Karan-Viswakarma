@@ -1,4 +1,4 @@
-[![](https://drive.google.com/file/d/1tmVFNeCxOJ3buj3Utqsc3SAscAj7P_60/view?usp=sharing)]
+[![](1-dBPwuC3Dh2WWFFYTwogTMA.gif)]
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">Aspiring data scientist from India</h3>
 
