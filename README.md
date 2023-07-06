@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Intro to ML and NN**
 
-- 💬 Ask me about **Transitioning from Mechanical Engineering to Data Analytics, MySQL, Python Libraries, MS Excel, Data Analysis and Manipulation, Data Visualization**
+- 💬 Ask me about <br> -- Transitioning from Mechanical Engineering to Data Analytics, -- MySQL, -- Python Libraries (Numpy, Pandas, Matplotlib, Seaborn, Scipy), -- MS Excel, -- Data Analysis and Manipulation, -- Data Visualization
 
 - 📫 How to reach me **karanviswa308@gmail.com**
 
