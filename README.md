@@ -7,6 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-viswakarma&label=Profile%20views&color=0e75b6&style=flat" alt="karan-viswakarma" /> </p>
 
 
+## 🚀 About Me
+
+
+<p>Currently pursuing an MS in AI and ML, I leverage my background in Mechanical Engineering. Following my Bachelor's degree, I committed myself to preparing for competitive exams while concurrently tutoring students from standard 8 to 12. This experience fostered a solid foundation in systematic and analytical thinking, data-driven decision-making, and problem-solving skills. My experience as a private tutor honed my communication and presentation skills, enabling me to effectively adapt to diverse audiences. </p>
+
+<p>I have expertise in data analysis, manipulation, and transformation using SQL and Python, with a strong command of widely-used libraries such as NumPy, Pandas, Matplotlib, Seaborn, and SciPy. I am also familiar with creating interactive and visually appealing dashboards using tools like Tableau and Excel. Demonstrating my problem-solving abilities, I have successfully solved over 200 questions on platforms like HackerRank, LeetCode, and DataLemur, earning gold-level badges for Python and SQL on HackerRank. I am continuously expanding my knowledge and keeping up-to-date with essential tools, libraries, and algorithms that are crucial for a Full Stack Data Analyst role.</p>
+
+
+
 - 🌱 I’m currently learning **Intro to ML and NN**
 
 - 💬 Ask me about <br>
