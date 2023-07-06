@@ -26,8 +26,9 @@
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="150" height="100"/> </a>   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="150" height="100"/> </a>  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="150" height="100"/> </a> </p>
 
 <pre>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=karan-viswakarma&show_icons=true&locale=en" alt="karan-viswakarma" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=karan-viswakarma&show_icons=true&locale=en" alt="karan-viswakarma" /> <br>
 
-  
+<Hr>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-viswakarma&" alt="karan-viswakarma" /></p>
 </pre>
