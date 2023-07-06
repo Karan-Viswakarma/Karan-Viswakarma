@@ -28,7 +28,6 @@
 <pre>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=karan-viswakarma&show_icons=true&locale=en" alt="karan-viswakarma" /> 
 
-<Hr>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-viswakarma&" alt="karan-viswakarma" />
+  
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-viswakarma&" alt="karan-viswakarma" />
 </pre>
