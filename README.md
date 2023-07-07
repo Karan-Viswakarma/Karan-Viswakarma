@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan</h1>
+<h1 align="center">नमस्ते (Namaste) 🙏, I'm Karan 👋</h1>
 <h3 align="center">Aspiring data scientist from India</h3>
 
 ![](1-dBPwuC3Dh2WWFFYTwogTMA.gif)
