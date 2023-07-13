@@ -60,6 +60,8 @@
   
   <br /><br /></p>
 
+<h3 aligh = 'left'> Github Streak Stats </h3> 
+<hr>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-viswakarma&" alt="karan-viswakarma" />
 </p>
