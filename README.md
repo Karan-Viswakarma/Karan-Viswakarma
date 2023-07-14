@@ -34,7 +34,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lqPQJPhH3vDuoXieBaerr_hsbGoqNJzy/view?usp=sharing](https://drive.google.com/file/d/1lqPQJPhH3vDuoXieBaerr_hsbGoqNJzy/view?usp=sharing)
 
 <h3 align="left"> 🔗 Connect with me:</h3>
-<hr>
+<hr width=300>
 <p align="left">
 <a href="https://linkedin.com/in/karan-viswakarma-3406ab148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan viswakarma" height="50" width="100" /></a>
 <a href="https://www.hackerrank.com/karanviswa308?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karan viswakarma" height="50" width="100" /></a>
@@ -42,7 +42,7 @@
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<hr>
+<hr width=450>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="150" height="100"/> </a> 
   <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="150" height="100"/> </a> 
@@ -61,7 +61,7 @@
   <br /><br /></p>
 
 <h3 aligh = 'left'> Github Streak Stats </h3> 
-<hr>
+<hr width=500>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karan-viswakarma&" alt="karan-viswakarma" />
 </p>
