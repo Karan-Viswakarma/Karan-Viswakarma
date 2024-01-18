@@ -56,7 +56,8 @@
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel"  width="150" height="100"/> </a></p>
 <p align = "left">
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="150" height="100"/> </a>
-  
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="150" height="65"/> </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/375px-Tableau_logo.svg.png" alt="Tableau" width="160" height="65"/> </a>
   <br /><br /></p>
 
 <h3 aligh = 'left'> Github Streak Stats </h3> 
