@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **Intro to ML and NN**
+- 🌱 I’m currently learning **MLOPs**
 
 - 💬 Ask me about <br>
   <ul> 
@@ -31,7 +31,6 @@
 
 - 📫 How to reach me **karanviswa308@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/17bK8DdrxUPhg5hJu_P5VLB_Vj-Bmn0EI/view?usp=sharing
 <h3 align="left"> 🔗 Connect with me:</h3>
 <hr width=300>
 <p align="left">
